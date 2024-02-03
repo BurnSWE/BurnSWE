@@ -7,7 +7,7 @@
 - <b> <a href="https://github.com/BurnSWE/Personnummerkontroll"> C# </a>  Winformapp for regestering and checking valid swedish personnummer.</b>
 - 
 <h3> Working on:</h3>
-Working on my Google Cybersecurity Proffesional Certificate.
+Working on my Google Cybersecurity Certificate.
 <!--
 **BurnSWE/BurnSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
