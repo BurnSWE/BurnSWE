@@ -1,10 +1,18 @@
-### Hi there 👋
+ <h1>Hi, 👋 I'm Michael! <br/>
+   Aspiring programmer and cybersecurity analyst.
+   <!--<a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com//">Cybersecurity Professional</a>,--></h1>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b> <a href="https://github.com/BurnSWE/Personnummerkontroll"> C# </a>  Winformapp for regestering and checking valid swedish personnummer.</b>
+- 
+<h3> Working on:</h3>
+Working on my Google Cybersecurity Proffesional Certificate.
 <!--
 **BurnSWE/BurnSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
